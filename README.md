@@ -41,3 +41,4 @@
   - commit은 뭔가가 바뀌면 바로바로 하는게 좋을 것 같아보임.(바뀜의 단위는 자신의 기준)
   - **`하교 전 저녁에는 push, 출첵 후 아침에는 pull 하는게 바람직할 듯`**
   - push, pull 모두 ''' 단추를 누르면 할 수 있음. **(push 는 commit 이후!!)**
+  - develop에 commit할 경우 push to -> origin -> develop 선택
