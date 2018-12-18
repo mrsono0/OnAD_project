@@ -13,7 +13,9 @@
   - master : 최종본
   - develop : 작업본
   - **`대부분의 경우 develop브랜치에 commit 하기 바람`**
-  - master branch에 커밋하는 경우 : 해당기능을 최종 완성시에만(토의 이후)
+  - master branch에 커밋하는 경우 :  
+    해당기능을 최종 완성시 또는에만(토의 이후)  
+    또는, document 수정
 
 * 기본 용어
   - **`branch`** : master의 가지 (다른 작업을 한 이후 master에 합치는 식)
